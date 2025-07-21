@@ -1,13 +1,178 @@
-.App-header {
-  background-color: #fff;
-  color: #00629b;
-  align-items: left;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px;
+.App{
+    max-width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
 }
 
-.App-link {
-  color: #61dafb;
+.App-header {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: center;
+    color: rgb(3, 5, 74);
+}
+
+.App-container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.App-sidebar {
+    display: block;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.App-content {
+    display: block;
+    margin-left: 20px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.contact {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(5, 79, 216);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    margin-top: 15px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.contact .contact-item a {
+    text-decoration: none;
+    padding-top: 4px;
+    padding-left: 4px;
+    color: rgb(3, 5, 74);
+    font-size: 13px
+}
+
+.contact .contact-item svg {
+    width: 18px;
+    display: inline-block;
+    color: rgb(3, 5, 74);
+}
+
+.idiom {
+    font-size: 14px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.main {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    margin-left: 20px;
+}
+
+.experience .title {
+    color: rgb(5, 79, 216);
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.experience-item {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5
+}
+
+.practicas {
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(5, 79, 216);
+}
+
+.empresa {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.detalles {
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+
+.titulos .title {
+    color: rgb(5, 79, 216);
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cursos {
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(5, 79, 216);
+}
+
+.nombre-curso {
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.fecha {
+    float: right;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.skill {
+    font-size: 14px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.main .otra-formacion .title {
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(5, 79, 216);
 }
