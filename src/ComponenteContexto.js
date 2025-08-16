@@ -60,7 +60,7 @@ export const ComponenteContexto = () => {
             <section className='titulaciones'>
                 <h2 className='title'>Titulaciones</h2>
                 <div className='nombre-curso'>Cualificación profesional</div>
-                <div className='detalles'><strongo>IFC297_2</strongo> Confección y Publicación de Páginas Web(Real Decreto 1201/2007, 14 de septiembre)</div>
+                <div className='detalles'><strongo>IFC297_2</strongo> Confección y Publicación de Páginas Web (Real Decreto 1201/2007, 14 de septiembre)</div>
             </section>
             <section className='otra-formacion'>
                 <h2 className='title'>Otras formaciones</h2>
