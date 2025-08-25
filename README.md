@@ -1,89 +1,85 @@
-# 📌 Francisco Rodríguez Carrillo
+# 📌 Francisco Rodríguez Carrillo  
 
 💻 **Desarrollador Frontend**  
-Apasionado por la creación de interfaces web modernas y funcionales. Con experiencia en **HTML, CSS, JavaScript y React**, así como en la integración y publicación de páginas web siguiendo estándares de calidad y buenas prácticas.  
+Apasionado por crear interfaces modernas y funcionales, con experiencia en **HTML, CSS, JavaScript, React, TypeScript y TailwindCSS**.  
 
 ---
 
-## 📞 Contacto
-
-- 📧 Email: **frank_link_24@homtail.com**  
-- 🔗 GitHub: **[franlink34](https://github.com/franlink34)**  
-- 👤 LinkedIn: **[Francisco Rodríguez Carrillo](https://www.linkedin.com/in/francisco-rodriguez-carrillo-919ab71b7/)**
-
----
-
-## 🌍 Idiomas
-
-- Español (Nativo)  
-- Inglés (Intermedio)
+## 📞 Contacto  
+- 📧 **Correo:** frank_link_24@homtail.com  
+- 🐙 **GitHub:** [franlink34](https://github.com/franlink34)  
+- 💼 **LinkedIn:** [Francisco Rodríguez Carrillo](https://www.linkedin.com/in/francisco-rodriguez-carrillo-919ab71b7/) 
 
 ---
 
-## 🛠️ Habilidades Frontend
-
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (ES6+)**  
-- **React**
-- **TypeScript**  
-- **Tailwind**
+## 🌍 Idiomas  
+- **Español:** Nativo  
+- **Inglés:** Intermedio  
 
 ---
 
-## 💼 Experiencia Laboral
+## 🛠️ Habilidades Frontend  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+---
+
+## 💼 Experiencia Laboral  
 
 ### 👨‍💻 Prácticas – Grupo IWI Consultores, S.L.  
-📅 18/06/2025 – 07/07/2025 (80 horas)  
+📅 18/06/2025 – 07/07/2025 _(80 horas)_  
 
-- Crear, retocar e integrar componentes software en páginas web, de acuerdo con las especificaciones de diseño.  
-- Publicar páginas web siguiendo las normas y procedimientos de la empresa.  
-- Participar en procesos de trabajo colaborativos, aplicando normas e instrucciones del centro de trabajo.  
+- 🔧 Creación, retoque e integración de componentes software en páginas web según especificaciones de diseño.  
+- 🌐 Publicación de páginas web siguiendo las normas del administrador del sistema y procedimientos de la empresa.  
+- 🤝 Participación en procesos de trabajo colaborativos, aplicando normas e instrucciones del centro de trabajo.  
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación  
 
-### 📘 Cursos
+### 📘 Cursos  
 
-#### 🔹 Construcción de páginas web (210 horas)  
+#### 🖥️ Construcción de páginas web (210 horas)  
 📅 03/04/2024 – 21/05/2024  
-- Realizar y maquetar páginas web siguiendo especificaciones de diseño.  
-- Retoque de páginas existentes mediante **lenguajes de marcas**.  
+- Realizar páginas web con herramientas de edición siguiendo especificaciones de diseño.  
+- Crear y retocar páginas con **lenguajes de marcas**.  
 - Añadir funcionalidades interactivas e interfaces reutilizables.  
 
-#### 🔹 Integración de componentes software en páginas web (180 horas)  
+#### ⚙️ Integración de componentes software en páginas web (180 horas)  
 📅 22/05/2024 – 08/07/2024  
-- Interpretar y ajustar componentes software desarrollados en **lenguajes de cliente**.  
-- Añadir nuevas funcionalidades a páginas existentes.  
-- Verificar la integración de componentes asegurando calidad y funcionamiento.  
+- Interpretar componentes desarrollados en **lenguajes de guión de cliente**.  
+- Ajustar software en páginas web para añadir nuevas funcionalidades.  
+- Verificar integración asegurando calidad y funcionamiento.  
 
-#### 🔹 Publicación de páginas web (90 horas)  
+#### 🚀 Publicación de páginas web (90 horas)  
 📅 09/07/2024 – 30/07/2024  
-- Gestionar y publicar sitios web mediante herramientas de transferencia.  
-- Realizar pruebas de funcionalidad y calidad de las páginas.  
-- Divulgar sitios web cumpliendo normas de calidad de la organización.  
+- Gestionar sitios web mediante herramientas de transferencia.  
+- Realizar pruebas de operatividad y calidad en páginas desarrolladas.  
+- Publicar y divulgar páginas cumpliendo normas de calidad de la organización.  
 
 ---
 
-### 🎓 Titulaciones
+### 🎓 Titulación  
 
 - **Cualificación Profesional IFC297_2**  
-  Confección y Publicación de Páginas Web  
+  *Confección y Publicación de Páginas Web*  
   _(Real Decreto 1201/2007, 14 de septiembre)_  
 
 ---
 
-### 📚 Otras formaciones
+### 📚 Otras Formaciones  
 
-- **WordPress básico**  
-- **Gutenberg básico**  
-- **Gutenberg avanzado**  
-
----
-
-## 🚀 Objetivo Profesional
-
-Seguir creciendo como **Desarrollador Frontend**, participando en proyectos web que requieran creatividad, resolución de problemas y buenas prácticas de programación.  
+- WordPress básico  
+- Gutenberg básico  
+- Gutenberg avanzado  
 
 ---
+
+## 🚀 Objetivo Profesional  
+
+Seguir creciendo como **Desarrollador Frontend**, aplicando buenas prácticas de programación y diseño, y aportando valor en proyectos web modernos y dinámicos.  
