@@ -38,8 +38,8 @@ export const ComponenteSidebar = () => {
                 <div className='skill'>CSS</div>
                 <div className='skill'>JavaScript</div>
                 <div className='skill'>React</div>
-                <div className='skill'>Tailwind</div>
                 <div className='skill'>TypeScript</div>
+                <div className='skill'>Tailwind</div>
             </section>
         </div>
     )

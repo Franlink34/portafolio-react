@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+# 📌 Francisco Rodríguez Carrillo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+💻 **Desarrollador Frontend**  
+Apasionado por la creación de interfaces web modernas y funcionales. Con experiencia en **HTML, CSS, JavaScript y React**, así como en la integración y publicación de páginas web siguiendo estándares de calidad y buenas prácticas.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📞 Contacto
 
-### `npm start`
+- 📧 Email: **frank_link_24@homtail.com**  
+- 🔗 GitHub: **[franlink34](https://github.com/franlink34)**  
+- 👤 LinkedIn: **[Francisco Rodríguez Carrillo](https://www.linkedin.com/in/francisco-rodriguez-carrillo-919ab71b7/)**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🌍 Idiomas
 
-### `npm test`
+- Español (Nativo)  
+- Inglés (Intermedio)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Habilidades Frontend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- **React**
+- **TypeScript**  
+- **Tailwind**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💼 Experiencia Laboral
 
-### `npm run eject`
+### 👨‍💻 Prácticas – Grupo IWI Consultores, S.L.  
+📅 18/06/2025 – 07/07/2025 (80 horas)  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Crear, retocar e integrar componentes software en páginas web, de acuerdo con las especificaciones de diseño.  
+- Publicar páginas web siguiendo las normas y procedimientos de la empresa.  
+- Participar en procesos de trabajo colaborativos, aplicando normas e instrucciones del centro de trabajo.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🎓 Formación
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 📘 Cursos
 
-## Learn More
+#### 🔹 Construcción de páginas web (210 horas)  
+📅 03/04/2024 – 21/05/2024  
+- Realizar y maquetar páginas web siguiendo especificaciones de diseño.  
+- Retoque de páginas existentes mediante **lenguajes de marcas**.  
+- Añadir funcionalidades interactivas e interfaces reutilizables.  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 🔹 Integración de componentes software en páginas web (180 horas)  
+📅 22/05/2024 – 08/07/2024  
+- Interpretar y ajustar componentes software desarrollados en **lenguajes de cliente**.  
+- Añadir nuevas funcionalidades a páginas existentes.  
+- Verificar la integración de componentes asegurando calidad y funcionamiento.  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### 🔹 Publicación de páginas web (90 horas)  
+📅 09/07/2024 – 30/07/2024  
+- Gestionar y publicar sitios web mediante herramientas de transferencia.  
+- Realizar pruebas de funcionalidad y calidad de las páginas.  
+- Divulgar sitios web cumpliendo normas de calidad de la organización.  
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🎓 Titulaciones
 
-### Analyzing the Bundle Size
+- **Cualificación Profesional IFC297_2**  
+  Confección y Publicación de Páginas Web  
+  _(Real Decreto 1201/2007, 14 de septiembre)_  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+### 📚 Otras formaciones
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **WordPress básico**  
+- **Gutenberg básico**  
+- **Gutenberg avanzado**  
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🚀 Objetivo Profesional
 
-### Deployment
+Seguir creciendo como **Desarrollador Frontend**, participando en proyectos web que requieran creatividad, resolución de problemas y buenas prácticas de programación.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
